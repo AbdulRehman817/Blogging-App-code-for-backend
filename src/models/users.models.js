@@ -11,6 +11,10 @@ const userSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  userProfileImg: {
+    type: String,
+    required: true,
+  },
 });
 
 userSchema.pre(
