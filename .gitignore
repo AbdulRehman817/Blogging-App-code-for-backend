@@ -1,2 +1,2 @@
-NODE_MODULES
-.ENV
+node_modules
+.env
